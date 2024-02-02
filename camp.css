@@ -1,0 +1,30 @@
+.home{
+    width: 100%;
+    height: 100vh;
+    background-image: url("img.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.home .home-one{
+    font-family: FreeMono;
+    font-size:50px;
+    justify-content: center;
+    color: #bcd0c7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

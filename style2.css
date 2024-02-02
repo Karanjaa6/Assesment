@@ -1,0 +1,123 @@
+h2{
+    color: #6edff6;
+    font-size: x-large;
+    font-weight: 400;
+    font-family: "Droid Sans";
+}
+.navbar{
+    background-color: #bcd0c7;
+    color: darkgray;
+    justify-content: space-between;
+    text-space: 0 8px;
+    display: flex;
+}
+.navbar .logo a{
+    color: orange;
+     text-align: center;
+text-decoration: none;
+font-size: 30px;
+
+}
+.navbar .all-links{
+    align-content: center;
+    position: relative;
+    display: flex;
+}
+.navbar .all-links li{
+  margin: 0 8px;
+    list-style: none;
+}
+.home{
+    width: 100%;
+    height: 100vh;
+    background-image: url("sky1.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.home .home-content{
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.home .text-one{
+    font-size: 25px;
+    color: aqua;
+}
+.home .text-two{
+    font-size: 75px;
+    color: saddlebrown;
+    font-weight: 600;
+    margin: -3px;
+}
+.home .text-three{
+    font-size: 35px;
+    margin: 5px 0;
+    color: wheat;
+}
+.home .text-four{
+    font-size: 25px;
+    margin: 5px 0;
+    color: burlywood;
+}
+.home .button{
+    margin: 15px 0;
+}
+.home .button button{
+    padding: 10px 16px;
+    outline: none;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 404;
+    background-color: beige;
+    color: black;
+    cursor: pointer;
+    border: 2px transparent;
+}
+.home .button button:hover{
+    border-color: deepskyblue;
+    background: lawngreen;
+
+}
+
+.home{
+    width: 100%;
+    height: 100vh;
+    /*background-image: url("img.png");*/
+    background-color: #ccc2a4;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    margin:10px 15;
+    text-align: center;
+}
+.home .home-one{
+    font-family: FreeMono;
+    font-size:50px;
+    justify-content: center;
+    color: greenyellow;
+    font-weight: 200;
+}
+.home .home-two{
+    font-size: 50px;
+    font-weight: initial;
+    color: #3dd5f3;
+}
+.home .home-three{
+    margin: 10px;
+    font-size: 30px;
+    color: #ccc2a4;
+
+}
+.about{
+    text-decoration: underline;
+}
+
+
+
+

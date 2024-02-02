@@ -1,0 +1,96 @@
+body{
+    background-image: url("hero-bg.jpg");
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.navbar{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    color: white;
+
+}
+. navbar .logo{
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+}
+.navbar .logo a{
+    text-align: center;
+    color: white;
+
+
+}
+.navbar .all-links {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    position: relative;
+    align-content: center;
+}
+.navbar .all-links li{
+    margin: 0 8px;
+    list-style: none;
+     color: white;
+}
+.navbar .all-links a{
+    color: white;
+    text-decoration: none;
+}
+
+.button{
+    padding: 35px 0;
+    text-align: center;
+
+}
+.home .home-left{
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    align-content: center;
+}
+.home .home-left .text-one{
+    font-size: 30px;
+    color: white;
+    margin-left: -3px;
+    text-align: center;
+    font-weight: bold;
+}
+.home .home-left .text-two{
+    font-size: 60px;
+    color: white;
+    margin-left: -3px;
+    text-align: center;
+    font-weight: bold;
+}
+.home .home-left .text-three{
+    font-size: 90px;
+    color: white;
+    margin-left: -3px;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    align-self: center;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+.home .home-left .button{
+  align-self: center;
+    border-radius: 5px 17px;
+text-align: center;
+}
+
+
+
+
