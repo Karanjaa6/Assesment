@@ -1,0 +1,43 @@
+.carousel-inner img{
+    width: 70%;
+    height: 70vh;
+}
+.row h4{
+    color: green;
+   font-family: "DejaVu Sans";
+     font-size: 24px;
+}
+.row img{
+    width: 105%;
+    height: 50vh;
+}
+.row .passport{
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 40px;
+}
+.row .passport img{
+    width: 100%;
+    height: 30vh;
+}
+.passport:hover{
+    padding: 8px;
+    border-radius: 0 5px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

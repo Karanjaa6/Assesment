@@ -1,0 +1,20 @@
+.row .one{
+    background-color: aqua;
+    height: 40vh;
+}
+.row .two{
+    background-color: orange;
+    height: 40vh;
+}
+.row .three{
+    background-color: #198754;
+    height: 40vh;
+}
+.row .five{
+    background-color: yellow;
+    height: 20vh;
+}
+.row .six{
+    background-color: mediumspringgreen;
+    height: 20vh;
+}
